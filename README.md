@@ -14,6 +14,7 @@ This project allows multiple users to share their live location on a map and see
 ---
 
 ## Project Structure  
+<pre>
 pinpoint.io/
 │── app.js # Express + Socket.IO server
 │── package.json # Dependencies and scripts
@@ -23,7 +24,7 @@ pinpoint.io/
 │ └── js/script.js # Client-side logic
 │── steps.yaml # Implementation breakdown
 │── .gitignore
-
+</pre>
 ---
 
 ## Setup & Installation  
