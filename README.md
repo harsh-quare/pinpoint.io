@@ -52,6 +52,23 @@ Server will start on http://localhost:3000
 - Allow location access.
 - You’ll see live location markers update in real-time.
 
+## Future Scope – Productized Use Cases
+
+This project is designed as a foundation for real-world applications. With incremental development, pinpoint.io can evolve into:
+
+- **Fleet & Logistics Tracking**  
+  Track delivery vans, cabs, or service agents in real-time. Admin dashboards with live monitoring, historical trip data, and performance analytics.  
+
+- **Live Trip Sharing (Consumer Use Case)**  
+  Allow users to share their journey link (like Uber/Ola). Friends or family can follow progress securely, with auto-expiring links for privacy.  
+
+- **Group/Team Location Sharing**  
+  For treks, marathons, or events — multiple users can join a “room” and see each other’s positions on a shared map in real-time.  
+
+- **Privacy-First Location Sharing**  
+  Add end-to-end encryption for location streams, temporary session-based sharing, and granular control over visibility.  
+
+
 ## Contribution
 - Fork this repo
 - Create a new branch (feature-xyz)
